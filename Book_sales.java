@@ -1,4 +1,3 @@
-package Program4;
 
 public class Book_sales {
     String saler_name;
